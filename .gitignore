@@ -1,0 +1,8 @@
+.DS_Store
+**/.DS_Store
+*.log
+*.trace
+diagnostics/
+**/diagnostics/
+backups/
+**/backups/

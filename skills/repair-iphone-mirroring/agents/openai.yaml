@@ -1,0 +1,4 @@
+interface:
+  display_name: "iPhone Mirroring Repair"
+  short_description: "Diagnose and repair stuck iPhone Mirroring"
+  default_prompt: "Use $repair-iphone-mirroring to diagnose and safely repair this iPhone Mirroring connection."
