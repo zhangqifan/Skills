@@ -43,7 +43,7 @@ Read [current-apple-requirements.md](references/current-apple-requirements.md) a
 Run the read-only collector from the loaded skill directory when useful:
 
 ```bash
-"<skill-directory>/scripts/collect-diagnostics.sh" --minutes 10
+/bin/zsh "<skill-directory>/scripts/collect-diagnostics.sh" --minutes 10
 ```
 
 Resolve `<skill-directory>` from the selected `SKILL.md` location. Do not assume a particular user home or installation root.
